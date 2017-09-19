@@ -1,0 +1,11 @@
+Classification image> supervisée/non-supervisée
+https://grass.osgeo.org/gdp/grass5tutor/HTML_fr/c1625.html
+
+Classification des images avec l'extension Spatial Analyst d'ArcGIS:
+https://desktop.arcgis.com/fr/arcmap/latest/extensions/spatial-analyst/image-classification/image-classification-using-spatial-analyst.htm
+
+Classification d'image
+http://www.univ-montp3.fr/ateliermercator/wp-content/uploads/2010/03/CLASSIFICATION_IMAGES_TNT.pdf
+
+Deep learning/convolutional neural networks
+https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
