@@ -1,7 +1,7 @@
 Classification image> supervisée/non-supervisée
 https://grass.osgeo.org/gdp/grass5tutor/HTML_fr/c1625.html
 
-Classification des images avec l'extension Spatial Analyst d'ArcGIS:
+Classification des images avec l'extension Spatial Analyst d'ArcGIS
 https://desktop.arcgis.com/fr/arcmap/latest/extensions/spatial-analyst/image-classification/image-classification-using-spatial-analyst.htm
 
 Classification d'image
@@ -9,3 +9,9 @@ http://www.univ-montp3.fr/ateliermercator/wp-content/uploads/2010/03/CLASSIFICAT
 
 Deep learning/convolutional neural networks
 https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
+
+http://perso.telecom-paristech.fr/~tupin/cours/voir/poly.pdf
+
+SVM
+https://www.math.univ-toulouse.fr/~gadat/Ens/M2SID/12-m2-SVM.pdf
+https://fr.wikipedia.org/wiki/Machine_%C3%A0_vecteurs_de_support
