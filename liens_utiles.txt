@@ -1,4 +1,4 @@
-Classification image> supervisÈe/non-supervisÈe
+Classification image> supervis√©e/non-supervis√©e
 https://grass.osgeo.org/gdp/grass5tutor/HTML_fr/c1625.html
 
 Classification des images avec l'extension Spatial Analyst d'ArcGIS
