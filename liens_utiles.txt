@@ -18,3 +18,4 @@ https://fr.wikipedia.org/wiki/Machine_%C3%A0_vecteurs_de_support
 
 CNN:
 https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/401_CNN.py
+https://github.com/humphd/have-fun-with-machine-learning
