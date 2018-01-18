@@ -15,3 +15,6 @@ http://perso.telecom-paristech.fr/~tupin/cours/voir/poly.pdf
 SVM
 https://www.math.univ-toulouse.fr/~gadat/Ens/M2SID/12-m2-SVM.pdf
 https://fr.wikipedia.org/wiki/Machine_%C3%A0_vecteurs_de_support
+
+CNN:
+https://github.com/MorvanZhou/PyTorch-Tutorial/blob/master/tutorial-contents/401_CNN.py
