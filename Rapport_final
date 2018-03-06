@@ -1,0 +1,7 @@
+CNN : MEMOIRE
+1. Présentation CNN
+2. Def Resnet / BasicBlock : expliquer les couches, layers, convolutions. Monter qu'il y a un ReLU, un nn.Linear etc...
+3. On utilisé le modèle pré-entrainé sur ImageNet (expliquer), gelé les couches inférieures (expliquer) et rajouter deux/trois couches supp.
+4. Donner le modèle final avec les fonctions qu'on a choisies. Expliquer pourquoi ces fonctions choisies sont les meilleures.
+5. Donner les résultats des tests effectués (avec résultats moins bons) : algorithme d'optimisation, loss fonction, régularisation, NonLinéarité (ReLU), Pooling
+Essayer d'avoir des plots du LR/ nombre d'epochs etc... pour justifier
